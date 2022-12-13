@@ -1,3 +1,4 @@
+![yoga_ER_Diagram drawio](https://user-images.githubusercontent.com/78259748/207242055-1fa36aed-d584-47f2-bcd7-a7222ea59d8c.png)
 # yoga-registration-
 
 This a registration page for yoga class.
